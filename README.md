@@ -1,4 +1,4 @@
 # ZoomClone
 Zoom Clone app made using React Native and NodeJS. 
 
-Live Video Streaming is still under work.
+Live Video Streaming of multiple users is still under work.
