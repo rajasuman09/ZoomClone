@@ -14,7 +14,7 @@ import SearchBar from "../components/SearchBar";
 import Menu from "../components/Menu";
 import Contacts from "../components/Contacts";
 
-const Home = () => {
+const Home = ({ navigation }) => {
   return (
     <Screen customStyles={styles.container}>
       <Header />
